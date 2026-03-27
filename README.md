@@ -3,7 +3,7 @@
 # 💫 Hello, I'm Khang: [My Portfolio](https://nguyen-thanh-khang.vercel.app/)
 
 🎓 Final-year IT student from Ho Chi Minh City  
-💻 Focused on backend (Java, Spring Boot, MySQL)  
+💻 Focused on backend (Java, Spring Boot, Typescript, Express.js, PostgreSQL, MySQL)  
 📚 Learning WebSocket, CI/CD & DevOps tools  
 🧠 Exploring Frontend (Vue, Flutter)  
 🌍 Improving English and personal skills daily  
