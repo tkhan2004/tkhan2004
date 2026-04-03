@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a4a,50:4a1a8a,100:c8a84b&height=200&section=header&text=Nguyễn%20Thanh%20Khang&fontSize=45&fontColor=fff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20IT%20Final%20Year%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=16&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=304&color=gradient&text=NGUYEN%20THANH%20KHANG&section=header&reversal=true&textBg=false&fontSize=52&fontAlign=50&animation=twinkling&rotate=0&stroke=33CCFF&strokeWidth=0&desc=SOFTWARE%20DEVELOPER%20-%20BACKEND%20DEVELOPER%20-FULLSTACK%20DEVELOPER&descSize=18&descAlign=48" />
 </div>
 ---
 
