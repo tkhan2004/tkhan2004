@@ -1,9 +1,7 @@
 
-<!--
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Nguyen Thanh Khang Banner" width="100%" />
+  <img src="./banner.svg" alt="Nguyen Thanh Khang — Software Engineer" width="100%" />
 </p>
--->
 
 <h1 align="center">Hi, I'm Nguyen Thanh Khang</h1>
 <h3 align="center">Software Engineer | Backend Developer | Mobile Developer</h3>
