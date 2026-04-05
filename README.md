@@ -3,8 +3,7 @@
   <img src="./banner.svg" alt="Nguyen Thanh Khang — Software Engineer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Nguyen Thanh Khang</h1>
-<h3 align="center">Software Engineer | Backend Developer | Mobile Developer</h3>
+<h2 align="center">Software Engineer | Backend Developer | Mobile Developer</h2>
 
 <p align="center">
   Final-year IT student from Ho Chi Minh City, passionate about backend engineering,
@@ -24,11 +23,9 @@
 - Final-year Information Technology student from Ho Chi Minh City
 - Software Engineer in Techfis (Hoang Thanh Capital and Partners)
 - Currently working on backend development with Java Spring Boot, mobile apps with Flutter, and PERN stack projects
-- Currently learning TypeScript, Express.js, Prisma, and LLM applications
+- Currently learning TypeScript, Express.js, Prisma, and LLM applications, CI/CD, and DevOps tools
 - Interested in clean architecture, scalable systems, and practical software engineering
 - Working toward becoming a Backend Engineering Specialist.
-<h2 align="center">Technical Expertise</h2>
-
 <h3 align="center">Backend Engineering</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,express,prisma,python,fastapi" alt="Backend Engineering" />
@@ -54,9 +51,3 @@
   <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama" />
 </p>
 
-
-## Current Focus
-
-- Backend development with Java - Spring Boot, TypeScript - Express.js
-- Mobile development with Flutter
-- Exploring LLMs, WebSocket, CI/CD, and DevOps tools
