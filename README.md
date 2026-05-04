@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://nguyen-thanh-khang.vercel.app/">Portfolio</a> •
   <a href="mailto:thanhkhangdev@gmail.com">Email</a> •
   <a href="https://github.com/tkhan2004">GitHub</a> •
   <a href="https://www.linkedin.com/in/thanh-khang-nguyen2404/">LinkedIn</a> •
