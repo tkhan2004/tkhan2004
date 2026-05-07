@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.svg" alt="Nguyen Thanh Khang — Software Engineer" width="100%" />
-</p>
+</p> -->
 
 <h2 align="center">Software Engineer | Backend Developer | Mobile Developer</h2>
 
