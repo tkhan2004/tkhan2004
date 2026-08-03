@@ -19,7 +19,6 @@
 
 ## About Me
 
-- Final-year Information Technology student from Ho Chi Minh City
 - Software Engineer in Techfis (Hoang Thanh Capital and Partners)
 - Currently working on backend development with Java Spring Boot, mobile apps with Flutter, and PERN stack projects
 - Currently learning TypeScript, Express.js, Prisma, and LLM applications, CI/CD, and DevOps tools
