@@ -6,8 +6,7 @@
 <h2 align="center">Software Engineer | Backend Developer | Mobile Developer</h2>
 
 <p align="center">
-  Final-year IT student from Ho Chi Minh City, passionate about backend engineering,
-  mobile development, and building practical full-stack products.
+    Software Engineer specializing in Backend Engineering and Full-Stack Development.
 </p>
 
 <p align="center">
