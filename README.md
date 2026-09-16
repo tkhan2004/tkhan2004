@@ -19,6 +19,7 @@
 <p align="center">
   <img src="./profile-assets/ikigai.png" width="240" alt="Ikigai" />
 </p>
+
 ## About Me
 
 - Software Engineer in Techfis (Hoang Thanh Capital and Partners)
